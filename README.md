@@ -6,10 +6,11 @@
 npm install --save-dev prettier husky lint-staged
 ```
 
-## Интерграция плагинов
+## Интерграция плагинов .huskyrc и .lintstagedrc
+
+Добавить в корень проекта фалы .huskyrc и .lintstagedrc с кодом настроек внутри (скопировать)
 
 Ссылки на документацию по интеграции плагинов в популярные редакторы.
-
 - [Prettier editor integration](https://prettier.io/docs/en/editors.html)
 - [ESLint editor integration](https://eslint.org/docs/user-guide/integrations)
 
@@ -28,4 +29,6 @@ npm install --save-dev prettier husky lint-staged
 }
 ```
 
-## Добавить в корень проекта фалы .huskyrc и .lintstagedrc с кодом настроек внутри (скопировать) 
+## Нормализация стилей
+   https://github.com/Vitamin-JS/React-init-project/blob/main/README.md
+
